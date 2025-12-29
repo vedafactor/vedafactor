@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&color=00E7FF&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Vedant+Salunkhe;aka+Vedafactor;The+Data+Guy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&color=00E7FF&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Vedant+Salunkhe;" />
 </h1>
 
 ---
@@ -15,14 +15,10 @@
 
 ### 🧠 About Me  
 
-> **Data explorer | AI enthusiast | Creative technologist | data miner**
 >
 > - 🔭 Currently working on: Data-driven projects & automation  
 > - 🌱 Learning: Machine Learning, Deep Learning, and Data Analytics
 > - ⚙️ Tools I use: Python | Pandas | NumPy | SQL | Git | HTML | CSS | PHP | C  
-> - 💬 Ask me about: Data analysis, AI models, automation ideas, data extraction  
-> - 🎯 Goal: To blend creativity, logic, and AI to build intelligent systems  
-> - ⚡ Fun fact: “My curiosity doesn’t fit in a dataset.”  
 
 </td>
     <td align="center" width="280">
@@ -116,7 +112,7 @@
 
 ---
 
-### 🌀 “Data is the new oil, but intelligence is the engine.”
+
 <div align="center">
   <img src="https://i.ibb.co/CPsSg7y/ai-hologram-min.gif" width="80%" alt="futuristic ai animation"/>
 </div>
